@@ -23,8 +23,6 @@ Scikit-learn for ML models
 
 The dataset contains transaction records with features like transaction amount, type, and balance information. The target variable indicates whether a transaction is fraudulent or non-fraudulent.
 
-
-
 📊 Approach
 
 Data Preprocessing – Handling missing values, feature engineering, and scaling.
